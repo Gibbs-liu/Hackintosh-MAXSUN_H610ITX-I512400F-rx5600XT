@@ -1,6 +1,6 @@
 # Hackintosh-MAXSUN铭瑄挑战者-H610ITX-I512400-rx560
 
-适用于 12400 + 铭瑄H610ITX DDR4 +RX560黑苹果引导文件
+适用于 12400 + 铭瑄H610ITX DDR4 +RX5600XT黑苹果引导文件
 
 基于 OpenCore 0.8.2 版本，机型 MacPro 7,1，系统 MacOS 12.4
 
